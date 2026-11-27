@@ -50,7 +50,13 @@ Probabilistic classifier based on Bayes' theorem.
 5. Random Forest (Ensemble)
 An ensemble learning algorithm combining multiple decision trees.
 
-<img width="1664" height="337" alt="image" src="https://github.com/user-attachments/assets/716d2769-9906-4ceb-b451-97b171c741da" />
+ML Model Name	Accuracy	AUC	Precision	Recall	F1	MCC
+Logistic Regression	0.8502	0.9004	0.7344	0.5925	0.6558	0.5668
+Decision Tree	0.8099	0.7407	0.6052	0.6071	0.6062	0.4809
+KNN	0.8274	0.8510	0.6618	0.5804	0.6184	0.5094
+Naive Bayes	0.5244	0.7218	0.3305	0.9496	0.4904	0.3142
+Random Forest (Ensemble)	0.8488	0.8956	0.7802	0.5185	0.6230	0.5506
+
 
 
 
