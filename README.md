@@ -1,6 +1,6 @@
 BITS ML Assignment 2
 
-a.Problem statement
+##a.Problem statement
 ---------------------
 
 The objective of this project is to build and compare multiple machine learning classification models for predicting whether an individual's annual income exceeds $50,000 based on demographic and employment-related attributes.
@@ -15,7 +15,7 @@ K-Nearest Neighbor (KNN) Classifier
 Naive Bayes Classifier
 Random Forest Classifier (Ensemble Method)
 
-b.Dataset description
+##b.Dataset description
 -----------------------
 
 Dataset Name: Adult Census Income Dataset
@@ -28,11 +28,11 @@ Classes: <=50K
 
 Missing Values: Present in workclass, occupation and native-country.
 
-c.Github Repository Link
+##c.Github Repository Link
 -------------------------
 [2026ct05115-prog/2026CT05115: ML-ASSIGNMENT-2](https://github.com/2026ct05115-prog/2026CT05115)
 
-d. Models Used
+##d. Models Used
 -----------------
 
 1. Logistic Regression
@@ -73,11 +73,3 @@ An ensemble learning algorithm combining multiple decision trees.
 | KNN | KNN produced balanced performance after feature scaling and achieved competitive Accuracy (0.8274) and F1 Score (0.6184). However, its results were slightly below Logistic Regression, suggesting that the dataset may not be ideally suited for distance-based classification. |
 | Naive Bayes | Naive Bayes achieved the highest Recall (0.9496), meaning it identified most positive cases correctly. However, its very low Precision (0.3305) and Accuracy (0.5244) indicate a large number of false positive predictions, resulting in the weakest overall performance. |
 | Random Forest (Ensemble) | Random Forest achieved the highest Precision (0.7802) and strong overall results. The ensemble approach helped reduce overfitting and improved robustness, but its Accuracy, F1 Score, and MCC were slightly lower than Logistic Regression. |
-
-
-
-
-
-
-
-
