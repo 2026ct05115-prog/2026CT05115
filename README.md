@@ -50,8 +50,8 @@ Probabilistic classifier based on Bayes' theorem.
 5. Random Forest (Ensemble)
 An ensemble learning algorithm combining multiple decision trees.
 
+<img width="1664" height="337" alt="image" src="https://github.com/user-attachments/assets/3dc58cb5-0cd8-4570-99fe-04a8d13dad71" />
 
-<img width="1412" height="521" alt="image" src="https://github.com/user-attachments/assets/10469957-83ed-48e5-8a8b-b2138a4559d1" />
 
 
 
