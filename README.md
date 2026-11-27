@@ -1,6 +1,6 @@
 BITS ML Assignment 2
 
-##a.Problem statement
+a.Problem statement
 ---------------------
 
 The objective of this project is to build and compare multiple machine learning classification models for predicting whether an individual's annual income exceeds $50,000 based on demographic and employment-related attributes.
@@ -15,7 +15,7 @@ K-Nearest Neighbor (KNN) Classifier
 Naive Bayes Classifier
 Random Forest Classifier (Ensemble Method)
 
-##b.Dataset description
+b.Dataset description
 -----------------------
 
 Dataset Name: Adult Census Income Dataset
@@ -28,11 +28,11 @@ Classes: <=50K
 
 Missing Values: Present in workclass, occupation and native-country.
 
-##c.Github Repository Link
+c.Github Repository Link
 -------------------------
 [2026ct05115-prog/2026CT05115: ML-ASSIGNMENT-2](https://github.com/2026ct05115-prog/2026CT05115)
 
-##d. Models Used
+d. Models Used
 -----------------
 
 1. Logistic Regression
