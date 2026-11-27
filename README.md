@@ -1,6 +1,7 @@
 BITS ML Assignment 2
 
-a.Problem statement 
+a.Problem statement
+---------------------
 
 The objective of this project is to build and compare multiple machine learning classification models for predicting whether an individual's annual income exceeds $50,000 based on demographic and employment-related attributes.
 
@@ -15,6 +16,7 @@ Naive Bayes Classifier
 Random Forest Classifier (Ensemble Method)
 
 b.Dataset description
+-----------------------
 
 Dataset Name: Adult Census Income Dataset
 Source: [https://archive.ics.uci.edu/ml/datasets/adult](https://www.kaggle.com/datasets/uciml/adult-census-income)
@@ -22,9 +24,34 @@ Instances: 48,842
 Features: 14
 Target Variable: Income
 Classes: <=50K
-50K
+50k
 
 Missing Values: Present in workclass, occupation and native-country.
 
-c. Github Repository Link
+c.Github Repository Link
+-------------------------
+[2026ct05115-prog/2026CT05115: ML-ASSIGNMENT-2](https://github.com/2026ct05115-prog/2026CT05115)
+
+d. Models Used
+-----------------
+
+1. Logistic Regression
+Used as a baseline classification algorithm.
+
+2. Decision Tree Classifier
+Used to capture nonlinear relationships between variables.
+
+3. K-Nearest Neighbors (KNN)
+Used as an instance-based learning algorithm.
+
+4. Naive Bayes
+Probabilistic classifier based on Bayes' theorem.
+
+5. Random Forest (Ensemble)
+An ensemble learning algorithm combining multiple decision trees.
+
+
+<img width="1412" height="521" alt="image" src="https://github.com/user-attachments/assets/10469957-83ed-48e5-8a8b-b2138a4559d1" />
+
+
 
